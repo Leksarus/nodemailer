@@ -3,7 +3,7 @@
 ## 6.7.3 2022-03-21
 
 -   Typo fixes
--   Added stale issue automation fir Github
+-   Added stale issue automation for Github
 -   Add Infomaniak config to well known service (popod)
 -   Update Outlook/Hotmail host in well known services (popod)
 -   fix: DSN recipient gets ignored (KornKalle)
